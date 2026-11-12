@@ -1,33 +1,33 @@
-# Snake (Browser Game)
+# 贪吃蛇（网页版）
 
-A single-file browser game. Open `snake.html` in a browser to play — no installation and no internet connection needed.
+单文件网页小游戏。用浏览器打开 `贪吃蛇.html` 就能玩，不需要安装任何东西，也不需要联网。
 
-## Controls
+## 玩法
 
-- Arrow keys, or W / A / S / D: change direction
-- Space: pause / resume
-- R: restart
-- Mobile: swipe on the board, or tap the arrow buttons below it
+- 方向键，或 W / A / S / D：控制方向
+- 空格：暂停 / 继续
+- R：重新开始
+- 手机：在棋盘上滑动，或点棋盘下方的方向键
 
-## Rules
+## 游戏规则
 
-- Eating a fruit gives 10 points, grows the snake, and gradually speeds up the game
-- Hitting a wall or biting yourself ends the game; filling the whole board shows a win message
-- The game pauses automatically when you switch to another window and resumes when you come back
-- The high score is stored in the browser's local storage (not in the file), so it is lost if you switch browsers or clear browser data
+- 吃到果子得 10 分，蛇身变长，速度逐渐加快
+- 撞墙或咬到自己就结束；把整个棋盘占满会显示通关
+- 切到其他窗口时会自动暂停，回来后接着玩
+- 最高分记录在浏览器的本地存储里（不在这个文件里），换浏览器或清空浏览器数据会丢失
 
-## Files
+## 文件说明
 
-There is only one file, `snake.html`. The HTML, styles, and script all live in that single file, with no external dependencies — copy it anywhere and double-click to play.
+只有一个 `贪吃蛇.html`，HTML、样式和脚本都在这一个文件里，没有外部依赖，拷到任何地方双击都能玩。
 
 ---
 
-## Need a browser mini-game for your own use case?
+## 需要一款适合自己场景的网页小游戏？
 
-[![status: available for hire](https://img.shields.io/badge/status-available%20for%20hire-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
+[![接单中](https://img.shields.io/badge/状态-接单中-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
 
-Paid customization is available: brand colors and images, scoring and level rules, mobile controls, or lightweight event mini-games.
+可沟通付费定制：替换品牌配色与图片、调整计分和关卡规则、适配手机操作，或制作活动用的轻量网页小游戏。
 
-This repository is a feature demo so you can see how it plays and how it is built. Scope, price, and delivery time are confirmed per request.
+这个仓库是功能演示，供你了解玩法与实现方式。定制范围、费用和交付时间会根据需求另行确认。
 
-Send your use case, the features you want, reference pages, and your expected timeline to [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com) so I can first check whether it is a good fit.
+请把使用场景、想要的功能、参考页面和期望时间发到 [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)，方便先判断需求是否适合承接。
