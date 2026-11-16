@@ -24,10 +24,10 @@
 
 ## 需要一款适合自己场景的网页小游戏？
 
-[![接单中](https://img.shields.io/badge/状态-接单中-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
+[![接单中](https://img.shields.io/badge/状态-接单中-2ea44f?style=for-the-badge)](https://github.com/markeruser)
 
 可沟通付费定制：替换品牌配色与图片、调整计分和关卡规则、适配手机操作，或制作活动用的轻量网页小游戏。
 
 这个仓库是功能演示，供你了解玩法与实现方式。定制范围、费用和交付时间会根据需求另行确认。
 
-请把使用场景、想要的功能、参考页面和期望时间发到 [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)，方便先判断需求是否适合承接。
+欢迎通过我的 GitHub 主页联系我：https://github.com/markeruser。请说明使用场景、想要的功能、参考页面和期望时间，方便先判断需求是否适合承接。
